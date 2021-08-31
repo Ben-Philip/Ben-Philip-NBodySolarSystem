@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NBodySolarSystem
+comment0.text=\r\n\ This\ program\ simulates\ the\ solar\ system,\ with\ N\ number\ of\ bodies\ orbiting\ the\ sun.\r\n\ Remember\ to\ set\ up\ the\ following\ libraries\ (.jar\ files)\:\ algs4,\ introcs,\ stdlib\r\n\r\n\ @author\ (Philip\ Osuri\ Ben)\r\n\ To\ test\ or\ run\ this\ program,\ type\ the\ following\ strings\ as\ the\ arguments\:\r\n\ "157788000.0",\ "25000.0",\ "planets.txt"\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
